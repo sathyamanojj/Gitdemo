@@ -15,6 +15,8 @@ public class Get_method
     public static  void getmethod() 
     {
 	System.out.println("THis is a method");
+	System.out.println("THis is a method2");
+	System.out.println("THis is a method3");
 	
 	
     RequestSpecification Resp=RestAssured.given();
